@@ -1,3 +1,4 @@
+// pages/MockTest.tsx
 import { Shell } from "@/components/layout/Shell";
 import { AIPatient } from "@/components/patient/AIPatient";
 import { FormContainer } from "@/components/forms/FormContainer";

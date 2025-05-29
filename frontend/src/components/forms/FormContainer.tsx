@@ -15,7 +15,7 @@ export function FormContainer() {
 			className="w-full h-full flex flex-col"
 		>
 			<div className="flex justify-between items-center mb-4">
-				<h1 className="text-2xl font-bold">Dental Assessment Form</h1>
+				<h1 className="text-2xl font-bold">Medical History</h1>
 				<TabsList>
 					<TabsTrigger value="paper1">Paper 1</TabsTrigger>
 					<TabsTrigger value="paper2">Paper 2</TabsTrigger>
